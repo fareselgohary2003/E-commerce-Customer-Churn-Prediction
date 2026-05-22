@@ -30,16 +30,16 @@ Machine Learning project for predicting customer churn using customer purchase b
 
 ## Feature Importance
 
-![Feature Importance](Screenshot%202026-05-23%20003527.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
 ## ROC Curve
 
-![ROC Curve](Screenshot%202026-05-23%2003549.png)
+![ROC Curve](roc_curve.png)
 
 ---
 
 ## Confusion Matrix
 
-![Confusion Matrix](Screenshot%202026-05-23%2003606.png)
+![Confusion Matrix](confusion_matrix.png)
